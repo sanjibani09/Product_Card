@@ -1,4 +1,4 @@
-import ProductCard from "./components/productcard/ProductCard";
+import ProductCard from "./components/ProductCard/ProductCard";
 import "./App.css";
 
 import headphones from "./assets/images/headphones.jpg";
